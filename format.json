@@ -1,0 +1,19 @@
+{
+    "formatsNames": [
+        "livret"
+    ],
+    "formats": {
+        "livret": {
+            "title": "Livret ",
+            "picture": "E:/desktop/pictures/a.png",
+            "subjects": [
+                "Math",
+                "Physique",
+                "Histoire",
+                "SVT",
+                "NSI"
+            ],
+            "group": true
+        }
+    }
+}
