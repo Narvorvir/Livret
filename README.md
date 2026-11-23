@@ -1,6 +1,8 @@
 # Livret
 Logiciel permettant de creéer des livrets et de les sauvgarder sous forme de fichiers excels. Les matières, le nom des élèves, le niveau de la classe peuvent être changé. C'est une forme de word microsoft mais pour les livrets.
 
+Réalisé en 2021
+
 ### Menu accueil
 <img src="https://github.com/Navorvir/Livret/assets/86235354/397201a5-5b73-479b-ab7f-c0b2e40b21d3" width=500 height=auto/>
 
@@ -12,3 +14,5 @@ Logiciel permettant de creéer des livrets et de les sauvgarder sous forme de fi
 
 ### Interface de redaction
 <img src="https://github.com/Navorvir/Livret/assets/86235354/8581ea7d-443f-4798-a468-9bbd7095195d" width=500 height=auto/>
+
+Bibliothèques utilisées : tkinter
